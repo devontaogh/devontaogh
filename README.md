@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devontaogh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+and still trying to figure out how to work with github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
